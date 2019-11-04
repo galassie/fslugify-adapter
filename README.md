@@ -1,1 +1,1 @@
-# fslugify-adapter
+# FSlugify-Adapter
