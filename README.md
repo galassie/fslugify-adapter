@@ -30,6 +30,6 @@ dotnet test
 
 ## License
 
-This project is licensed under [The MIT License (MIT)](https://raw.githubusercontent.com/galassie/fslugify/master/LICENSE.md).
+This project is licensed under [The MIT License (MIT)](https://raw.githubusercontent.com/galassie/fslugify-adapter/master/LICENSE.md).
 
 Author: [Enrico Galassi](https://twitter.com/enricogalassi88)
