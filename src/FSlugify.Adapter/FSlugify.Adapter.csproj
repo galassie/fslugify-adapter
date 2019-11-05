@@ -7,14 +7,14 @@
   <PropertyGroup>
     <PackageId>FSlugify.Adapter</PackageId>
 		<Title>FSlugify: a minimalistic slug generator library</Title>
-    <Version>1.0.0-beta002</Version>
+    <Version>1.0.0-beta003</Version>
     <Description>Ad Object-Oriented adapter to the functional FSlugify library.</Description>
 		<Authors>Enrico Galassi</Authors>
 		<PackageLicenseUrl>https://raw.githubusercontent.com/galassie/fslugify-adapter/master/LICENSE.md</PackageLicenseUrl>
 		<PackageRequireLicenseAcceptance>False</PackageRequireLicenseAcceptance>
 		<NoPackageAnalysis>True</NoPackageAnalysis>
 		<PackageTags>slug;slugify;C#;csharp;</PackageTags>
-    <PackageIconUrl>https://raw.githubusercontent.com/galassie/fslugify-adapter/master/images/fslugify-alt-200x200.png</PackageIconUrl>
+    <PackageIconUrl>https://raw.githubusercontent.com/galassie/fslugify-adapter/master/assets/fslugify-alt-200x200.png</PackageIconUrl>
 		<RepositoryUrl>https://github.com/galassie/fslugify-adapter</RepositoryUrl>
 		<IncludeSymbols>True</IncludeSymbols>
     <RepositoryType>git</RepositoryType>
@@ -22,7 +22,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="FSlugify" Version="1.0.0-beta002" />
+    <PackageReference Include="FSlugify" Version="1.0.0-beta003" />
   </ItemGroup>
 
 </Project>
