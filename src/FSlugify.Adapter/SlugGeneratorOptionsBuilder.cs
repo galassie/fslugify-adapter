@@ -38,12 +38,6 @@ namespace FSlugify.Adapter
         }
         
         public SlugGeneratorOptions Build()
-        {
-            return new SlugGeneratorOptions(
-                _customSeparator,
-                _isLowercaseOn,
-                ListModule.OfSeq(_customMaps)
-            );
-        }
+            => new SlugGeneratorOptions(_customSeparator, _isLowercaseOn, ListModule.OfSeq(_customMaps));
     }
 }
