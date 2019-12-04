@@ -2,7 +2,6 @@ using System;
 using System.Collections.Generic;
 using Microsoft.FSharp.Collections;
 using NUnit.Framework;
-using FSlugify.Adapter;
 using static FSlugify.SlugGenerator;
 
 namespace FSlugify.Adapter.Tests

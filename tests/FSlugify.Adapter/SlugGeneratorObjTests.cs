@@ -1,5 +1,4 @@
 using NUnit.Framework;
-using FSlugify.Adapter;
 using static FSlugify.SlugGenerator;
 
 namespace FSlugify.Adapter.Tests
