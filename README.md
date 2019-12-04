@@ -9,7 +9,7 @@ Simple, Object-Oriented adapter for the library [FSlugify](https://github.com/ga
 If you want to add this package to your project, execute the following command:
 
 ``` shell
-dotnet add package FSlugify.Adapter --version 1.0.0-rc1
+dotnet add package FSlugify.Adapter --version 1.0.0
 ```
 
 ## Build on your machine
