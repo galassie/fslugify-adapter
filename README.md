@@ -28,6 +28,13 @@ If you want to run the tests, execute the following command:
 dotnet test
 ```
 
+## Contributing
+
+Code contributions are  more than welcome! 😻
+
+Please commit any pull requests against the `master` branch.  
+If you find any issue, please [report it](https://github.com/galassie/fslugify-adapter/issues)!
+
 ## License
 
 This project is licensed under [The MIT License (MIT)](https://raw.githubusercontent.com/galassie/fslugify-adapter/master/LICENSE.md).
