@@ -7,7 +7,7 @@
   <PropertyGroup>
     <PackageId>FSlugify.Adapter</PackageId>
 		<Title>FSlugify: a minimalistic slug generator library</Title>
-    <Version>1.0.0</Version>
+    <Version>1.1.0</Version>
     <Description>Ad Object-Oriented adapter to the functional FSlugify library.</Description>
 		<Authors>Enrico Galassi</Authors>
 		<PackageLicenseUrl>https://raw.githubusercontent.com/galassie/fslugify-adapter/master/LICENSE.md</PackageLicenseUrl>
@@ -22,7 +22,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="FSlugify" Version="1.0.0" />
+    <PackageReference Include="FSlugify" Version="1.1.0" />
   </ItemGroup>
 
 </Project>
