@@ -1,6 +1,6 @@
 # FSlugify-Adapter
 
-[![Build status](https://ci.appveyor.com/api/projects/status/7xa66bc8a9ruw5wm?svg=true)](https://ci.appveyor.com/project/galassie/fslugify-adapter) [![Build Status](https://travis-ci.org/galassie/fslugify-adapter.svg?branch=master)](https://travis-ci.org/galassie/fslugify-adapter) [![NuGet](https://img.shields.io/nuget/v/FSlugify.Adapter.svg)](https://nuget.org/packages/FSlugify.Adapter)
+[![Build status](https://ci.appveyor.com/api/projects/status/7xa66bc8a9ruw5wm?svg=true)](https://ci.appveyor.com/project/galassie/fslugify-adapter) [![Build Status](https://travis-ci.org/galassie/fslugify-adapter.svg?branch=master)](https://travis-ci.org/galassie/fslugify-adapter) [![NuGet](https://img.shields.io/nuget/v/FSlugify.Adapter.svg)](https://nuget.org/packages/FSlugify.Adapter) ![.NET Core](https://github.com/galassie/fslugify-adapter/workflows/.NET%20Core/badge.svg?branch=master)
 
 Simple, Object-Oriented adapter for the library [FSlugify](https://github.com/galassie/fslugify), written in C#.
 
@@ -43,6 +43,7 @@ Use the following to instantiate a Docker container from the `fslugify-adapter` 
 
 ```shell
 docker run --rm fslugify-adapter dotnet test
+```
 
 ## Contributing
 
